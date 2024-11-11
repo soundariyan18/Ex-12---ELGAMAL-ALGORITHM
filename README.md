@@ -1,10 +1,10 @@
 
-# Ex-12-Implement-Elgamal-EncryptionandDecryption
+# Ex-12-Implement-Elgamal-Encryption and Decryption
 
 ```
 Name: Soundariyan MN
 212222230146
-
+```
 <h2>AIM:</h2>
 
 To encrypt and decrypt a message using the ElGamal encryption algorithm.
